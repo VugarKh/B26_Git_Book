@@ -1,8 +1,8 @@
 The Software Development Life Cycle refers to the phases of work involved in producing software applications. Each phase corresponds to a role or responsibility that contributors to the software must understand, manage, and optimize to deliver their software services with speed and performance. These stages of work include:
 
-Requirements Gathering,
-Software Design,
-Software Development,
-Test and Integration,
-Deployment,
-Operationalization and Maintenance.
+    Requirements Gathering,
+    Software Design,
+    Software Development,
+    Test and Integration,
+    Deployment,
+    Operationalization and Maintenance.
