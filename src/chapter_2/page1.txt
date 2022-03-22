@@ -1,1 +1,2 @@
-SDLC or the Software Development Life Cycle is a process that produces software with the highest quality and lowest cost in the shortest time possible.
+SDLC or the Software Development Life Cycle is a process that produces software with the highest quality and lowest cost in the shortest time possible..
+
